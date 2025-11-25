@@ -1,5 +1,5 @@
 ## Transaction Category Prediction (ML Final Project)
-## By Nardy Attaalla – ReDI School Machine Learning Course  
+By Nardy Attaalla – ReDI School Machine Learning Course  
 Project Files Reference: FINAL PROJECT Presentation
 
 ## 📌 1. Project Overview
