@@ -1,6 +1,6 @@
-**Transaction Category Prediction (ML Final Project)
-****By Nardy Attaalla – ReDI School Machine Learning Course  
-**Project Files Reference: FINAL PROJECT Presentation
+## Transaction Category Prediction (ML Final Project)
+## By Nardy Attaalla – ReDI School Machine Learning Course  
+Project Files Reference: FINAL PROJECT Presentation
 
 ## 📌 1. Project Overview
 This project automatically classifies customer transactions into product categories using a hybrid approach combining:
