@@ -3,7 +3,7 @@
 By Nardy Attaalla – ReDI School Machine Learning Course  
 Project Files Reference: FINAL PROJECT Presentation 08e16aac-4046-4d83-a9a7-9554c00…
 
-## 📌 1. Project Overview
+📌 1. Project Overview
 This project automatically classifies customer transactions into product categories using a hybrid approach combining:
 
 - NLP (TF-IDF)
@@ -13,7 +13,7 @@ This project automatically classifies customer transactions into product categor
 The dataset contains retail transactions but no category labels, so the solution generates its own categories through clustering, then trains a classifier to predict them for new unseen transactions.  
 This reflects real applications in fintech, banking, and expense-tracking apps such as Revolut, Monzo, and N26.
 
-## 📌 2. Problem Statement
+📌 2. Problem Statement
 Retail transaction data rarely comes with clean product categories.  
 The goal of this project is to:
 
@@ -23,7 +23,7 @@ The goal of this project is to:
 
 This helps financial applications summarize spending, detect unusual purchases, and assist users in money management.
 
-## 📌 3. Dataset Information
+📌 3. Dataset Information
 **Source:** Kaggle – Transaction Data  
 https://www.kaggle.com/datasets/vipin20/transaction-data
 
@@ -43,7 +43,7 @@ https://www.kaggle.com/datasets/vipin20/transaction-data
 - Very skewed country distribution (90% UK)
 - Text is messy, requires NLP preprocessing
 
-## 📌 4. Installation & Requirements
+📌 4. Installation & Requirements
 **Required Libraries**
 ```bash
 pandas
