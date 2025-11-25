@@ -43,17 +43,10 @@ Challenges:
 - Very skewed country distribution (90% UK)
 - Text is messy, requires NLP preprocessing
 
-📌 4. Installation & Requirements
-Required Libraries
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-scipy
+
 ```
 
-**Install Libraries**
+📌**Install Libraries**
 - pandas  
 - numpy  
 - scikit-learn  
@@ -172,4 +165,4 @@ This demonstrates the effectiveness of the hybrid pipeline:
 - ReDI School Machine Learning Course
 - Scikit-Learn Documentation
 - ChatGPT used for brainstorming & debugging assistance (as required by academic honesty rules)
-```
+
