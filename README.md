@@ -24,19 +24,19 @@ The goal of this project is to:
 This helps financial applications summarize spending, detect unusual purchases, and assist users in money management.
 
 📌 3. Dataset Information
-**Source:** Kaggle – Transaction Data  
+Source: Kaggle – Transaction Data  
 https://www.kaggle.com/datasets/vipin20/transaction-data
 
-**Rows:** ~540K
+Rows: ~540K
 
-**Columns:**
+Columns:
 - UserId
 - ItemDescription
 - NumberOfItemsPurchased
 - CostPerItem
 - Country
 
-**Challenges:**
+Challenges:
 - No category labels
 - Duplicate entries
 - Outliers
@@ -44,8 +44,7 @@ https://www.kaggle.com/datasets/vipin20/transaction-data
 - Text is messy, requires NLP preprocessing
 
 📌 4. Installation & Requirements
-**Required Libraries**
-```bash
+Required Libraries
 pandas
 numpy
 scikit-learn
