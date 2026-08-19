@@ -179,3 +179,7 @@ Therefore, the result demonstrates consistency with the project’s clustering s
 - Scikit-Learn Documentation
 - ChatGPT used for brainstorming & debugging assistance (as required by academic honesty rules)
 
+## License
+
+MIT — see [LICENSE](./LICENSE).
+
